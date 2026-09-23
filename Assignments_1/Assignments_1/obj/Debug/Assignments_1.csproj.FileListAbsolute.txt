@@ -1,0 +1,22 @@
+C:\C# Projects\Assignments_1\Assignments_1\bin\Debug\Assignments_1.exe.config
+C:\C# Projects\Assignments_1\Assignments_1\bin\Debug\Assignments_1.exe
+C:\C# Projects\Assignments_1\Assignments_1\bin\Debug\Assignments_1.pdb
+C:\C# Projects\Assignments_1\Assignments_1\obj\Debug\Assignments_1.csproj.AssemblyReference.cache
+C:\C# Projects\Assignments_1\Assignments_1\obj\Debug\Assignments_1.Form1.resources
+C:\C# Projects\Assignments_1\Assignments_1\obj\Debug\Assignments_1.Properties.Resources.resources
+C:\C# Projects\Assignments_1\Assignments_1\obj\Debug\Assignments_1.csproj.GenerateResource.cache
+C:\C# Projects\Assignments_1\Assignments_1\obj\Debug\Assignments_1.csproj.CoreCompileInputs.cache
+C:\C# Projects\Assignments_1\Assignments_1\obj\Debug\Assignments_1.exe
+C:\C# Projects\Assignments_1\Assignments_1\obj\Debug\Assignments_1.pdb
+C:\C# Projects\Assignments_1\Assignments_1\obj\Debug\Assignments_1.exe.config
+C:\Users\phamo\Desktop\Assignments_1\Assignments_1\Assignments_1\bin\Debug\Assignments_1.exe.config
+C:\Users\phamo\Desktop\Assignments_1\Assignments_1\Assignments_1\bin\Debug\Assignments_1.exe
+C:\Users\phamo\Desktop\Assignments_1\Assignments_1\Assignments_1\bin\Debug\Assignments_1.pdb
+C:\Users\phamo\Desktop\Assignments_1\Assignments_1\Assignments_1\obj\Debug\Assignments_1.csproj.AssemblyReference.cache
+C:\Users\phamo\Desktop\Assignments_1\Assignments_1\Assignments_1\obj\Debug\Assignments_1.exe.config
+C:\Users\phamo\Desktop\Assignments_1\Assignments_1\Assignments_1\obj\Debug\Assignments_1.Form1.resources
+C:\Users\phamo\Desktop\Assignments_1\Assignments_1\Assignments_1\obj\Debug\Assignments_1.Properties.Resources.resources
+C:\Users\phamo\Desktop\Assignments_1\Assignments_1\Assignments_1\obj\Debug\Assignments_1.csproj.GenerateResource.cache
+C:\Users\phamo\Desktop\Assignments_1\Assignments_1\Assignments_1\obj\Debug\Assignments_1.csproj.CoreCompileInputs.cache
+C:\Users\phamo\Desktop\Assignments_1\Assignments_1\Assignments_1\obj\Debug\Assignments_1.exe
+C:\Users\phamo\Desktop\Assignments_1\Assignments_1\Assignments_1\obj\Debug\Assignments_1.pdb

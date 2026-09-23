@@ -1,0 +1,22 @@
+C:\C# Projects\homework_ca242\homework_ca242\obj\Debug\homework_ca242.csproj.AssemblyReference.cache
+C:\C# Projects\homework_ca242\homework_ca242\obj\Debug\homework_ca242.Form1.resources
+C:\C# Projects\homework_ca242\homework_ca242\obj\Debug\homework_ca242.Properties.Resources.resources
+C:\C# Projects\homework_ca242\homework_ca242\obj\Debug\homework_ca242.csproj.GenerateResource.cache
+C:\C# Projects\homework_ca242\homework_ca242\obj\Debug\homework_ca242.csproj.CoreCompileInputs.cache
+C:\C# Projects\homework_ca242\homework_ca242\bin\Debug\homework_ca242.exe.config
+C:\C# Projects\homework_ca242\homework_ca242\bin\Debug\homework_ca242.exe
+C:\C# Projects\homework_ca242\homework_ca242\bin\Debug\homework_ca242.pdb
+C:\C# Projects\homework_ca242\homework_ca242\obj\Debug\homework_ca242.exe
+C:\C# Projects\homework_ca242\homework_ca242\obj\Debug\homework_ca242.pdb
+C:\C# Projects\homework_ca242\homework_ca242\obj\Debug\homework_ca242.exe.config
+C:\Users\phamo\Desktop\homework_ca242\homework_ca242\bin\Debug\homework_ca242.exe.config
+C:\Users\phamo\Desktop\homework_ca242\homework_ca242\bin\Debug\homework_ca242.exe
+C:\Users\phamo\Desktop\homework_ca242\homework_ca242\bin\Debug\homework_ca242.pdb
+C:\Users\phamo\Desktop\homework_ca242\homework_ca242\obj\Debug\homework_ca242.csproj.AssemblyReference.cache
+C:\Users\phamo\Desktop\homework_ca242\homework_ca242\obj\Debug\homework_ca242.exe.config
+C:\Users\phamo\Desktop\homework_ca242\homework_ca242\obj\Debug\homework_ca242.Form1.resources
+C:\Users\phamo\Desktop\homework_ca242\homework_ca242\obj\Debug\homework_ca242.Properties.Resources.resources
+C:\Users\phamo\Desktop\homework_ca242\homework_ca242\obj\Debug\homework_ca242.csproj.GenerateResource.cache
+C:\Users\phamo\Desktop\homework_ca242\homework_ca242\obj\Debug\homework_ca242.csproj.CoreCompileInputs.cache
+C:\Users\phamo\Desktop\homework_ca242\homework_ca242\obj\Debug\homework_ca242.exe
+C:\Users\phamo\Desktop\homework_ca242\homework_ca242\obj\Debug\homework_ca242.pdb
