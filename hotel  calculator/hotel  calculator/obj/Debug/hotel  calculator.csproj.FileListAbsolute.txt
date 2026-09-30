@@ -1,0 +1,11 @@
+C:\Users\phamo\Videos\c#_practice\c#_practice\hotel  calculator\hotel  calculator\bin\Debug\hotel  calculator.exe.config
+C:\Users\phamo\Videos\c#_practice\c#_practice\hotel  calculator\hotel  calculator\bin\Debug\hotel  calculator.exe
+C:\Users\phamo\Videos\c#_practice\c#_practice\hotel  calculator\hotel  calculator\bin\Debug\hotel  calculator.pdb
+C:\Users\phamo\Videos\c#_practice\c#_practice\hotel  calculator\hotel  calculator\obj\Debug\hotel  calculator.csproj.AssemblyReference.cache
+C:\Users\phamo\Videos\c#_practice\c#_practice\hotel  calculator\hotel  calculator\obj\Debug\hotel__calculator.Form1.resources
+C:\Users\phamo\Videos\c#_practice\c#_practice\hotel  calculator\hotel  calculator\obj\Debug\hotel__calculator.Properties.Resources.resources
+C:\Users\phamo\Videos\c#_practice\c#_practice\hotel  calculator\hotel  calculator\obj\Debug\hotel  calculator.csproj.GenerateResource.cache
+C:\Users\phamo\Videos\c#_practice\c#_practice\hotel  calculator\hotel  calculator\obj\Debug\hotel  calculator.csproj.CoreCompileInputs.cache
+C:\Users\phamo\Videos\c#_practice\c#_practice\hotel  calculator\hotel  calculator\obj\Debug\hotel  calculator.exe
+C:\Users\phamo\Videos\c#_practice\c#_practice\hotel  calculator\hotel  calculator\obj\Debug\hotel  calculator.pdb
+C:\Users\phamo\Videos\c#_practice\c#_practice\hotel  calculator\hotel  calculator\obj\Debug\hotel  calculator.exe.config
