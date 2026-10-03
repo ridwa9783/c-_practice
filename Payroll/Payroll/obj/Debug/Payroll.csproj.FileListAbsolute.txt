@@ -1,0 +1,11 @@
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Payroll\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Payroll\Payroll\bin\Debug\Payroll.exe
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Payroll\Payroll\bin\Debug\Payroll.pdb
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Payroll\Payroll\obj\Debug\Payroll.csproj.AssemblyReference.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Payroll\Payroll\obj\Debug\Payroll.Form1.resources
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Payroll\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Payroll\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Payroll\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Payroll\Payroll\obj\Debug\Payroll.exe
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Payroll\Payroll\obj\Debug\Payroll.pdb
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Payroll\Payroll\obj\Debug\Payroll.exe.config

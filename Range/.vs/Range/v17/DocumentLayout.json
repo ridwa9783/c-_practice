@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Music\\C#_one_practice\\c#_one_practices\\Range\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4950DC09-07C7-4571-9375-87DEDAC71AF2}|Range\\Range.csproj|c:\\users\\hp\\music\\c#_one_practice\\c#_one_practices\\range\\range\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4950DC09-07C7-4571-9375-87DEDAC71AF2}|Range\\Range.csproj|solutionrelative:range\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4950DC09-07C7-4571-9375-87DEDAC71AF2}|Range\\Range.csproj|c:\\users\\hp\\music\\c#_one_practice\\c#_one_practices\\range\\range\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4950DC09-07C7-4571-9375-87DEDAC71AF2}|Range\\Range.csproj|solutionrelative:range\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Music\\C#_one_practice\\c#_one_practices\\Range\\Range\\Form1.cs",
+              "RelativeDocumentMoniker": "Range\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Music\\C#_one_practice\\c#_one_practices\\Range\\Range\\Form1.cs",
+              "RelativeToolTip": "Range\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAjwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T19:46:06.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Music\\C#_one_practice\\c#_one_practices\\Range\\Range\\Form1.cs",
+              "RelativeDocumentMoniker": "Range\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Music\\C#_one_practice\\c#_one_practices\\Range\\Range\\Form1.cs [Design]",
+              "RelativeToolTip": "Range\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T19:41:32.345Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

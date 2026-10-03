@@ -1,0 +1,10 @@
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Average_display\Average_display\bin\Debug\Average_display.exe.config
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Average_display\Average_display\bin\Debug\Average_display.exe
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Average_display\Average_display\bin\Debug\Average_display.pdb
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Average_display\Average_display\obj\Debug\Average_display.csproj.AssemblyReference.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Average_display\Average_display\obj\Debug\Average_display.Form1.resources
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Average_display\Average_display\obj\Debug\Average_display.Properties.Resources.resources
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Average_display\Average_display\obj\Debug\Average_display.csproj.GenerateResource.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Average_display\Average_display\obj\Debug\Average_display.csproj.CoreCompileInputs.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Average_display\Average_display\obj\Debug\Average_display.exe
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Average_display\Average_display\obj\Debug\Average_display.pdb

@@ -1,0 +1,11 @@
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Range\Range\bin\Debug\Range.exe.config
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Range\Range\bin\Debug\Range.exe
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Range\Range\bin\Debug\Range.pdb
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Range\Range\obj\Debug\Range.csproj.AssemblyReference.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Range\Range\obj\Debug\Range.Form1.resources
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Range\Range\obj\Debug\Range.Properties.Resources.resources
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Range\Range\obj\Debug\Range.csproj.GenerateResource.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Range\Range\obj\Debug\Range.csproj.CoreCompileInputs.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Range\Range\obj\Debug\Range.exe
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Range\Range\obj\Debug\Range.pdb
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Range\Range\obj\Debug\Range.exe.config
