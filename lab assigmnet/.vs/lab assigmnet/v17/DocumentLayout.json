@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phamo\\Videos\\c#_practice\\c#_practice\\lab assigmnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F085A0FB-C92B-4D1B-A1F1-A4115A4400FC}|lab assigmnet\\lab assigmnet.csproj|c:\\users\\phamo\\desktop\\lab assigment i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F085A0FB-C92B-4D1B-A1F1-A4115A4400FC}|lab assigmnet\\lab assigmnet.csproj|c:\\users\\phamo\\desktop\\lab assigment i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab assigment i.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phamo\\Desktop\\lab assigment i.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\lab assigment i.cs",
+              "ToolTip": "C:\\Users\\phamo\\Desktop\\lab assigment i.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\lab assigment i.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T10:17:46.875Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab assigment i.cs",
+              "DocumentMoniker": "C:\\Users\\phamo\\Desktop\\lab assigment i.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\lab assigment i.cs",
+              "ToolTip": "C:\\Users\\phamo\\Desktop\\lab assigment i.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\lab assigment i.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAUwCgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T10:26:31.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
